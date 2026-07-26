@@ -1,0 +1,9 @@
+case,exit_code,wall_seconds,log
+Medical_mu1_beta6_alpha03_rack12,0,1800.464,Medical_mu1_beta6_alpha03_rack12.log
+Medical_mu1_beta6_alpha03_rack15,0,0.381,Medical_mu1_beta6_alpha03_rack15.log
+Medical_mu1_beta8_alpha03_rack12,0,18.242,Medical_mu1_beta8_alpha03_rack12.log
+Medical_mu1_beta8_alpha03_rack15,0,0.379,Medical_mu1_beta8_alpha03_rack15.log
+Medical_mu2_beta6_alpha03_rack12,0,1800.369,Medical_mu2_beta6_alpha03_rack12.log
+Medical_mu2_beta6_alpha03_rack15,0,1800.442,Medical_mu2_beta6_alpha03_rack15.log
+Medical_mu2_beta8_alpha03_rack12,0,3.144,Medical_mu2_beta8_alpha03_rack12.log
+Medical_mu2_beta8_alpha03_rack15,0,1800.426,Medical_mu2_beta8_alpha03_rack15.log

@@ -1,0 +1,5 @@
+order_id,zone_id,weight,d_op,u_op,wspt_ratio,wspt_position,continuous_completion,weighted_continuous_completion
+11,3,1.5,2,1.0,0.6666666666666666,1,1.0,1.5
+8,3,1.5,2,1.0,0.6666666666666666,2,2.0,3.0
+14,3,1.0,2,1.0,1.0,3,3.0,3.0
+9,3,1.0,3,1.5,1.5,4,4.5,4.5

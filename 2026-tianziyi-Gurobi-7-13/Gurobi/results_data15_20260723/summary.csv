@@ -1,0 +1,9 @@
+case,status,objective,best_bound,gap_percent,solve_seconds,nodes,solution_count,variables,initial_constraints,num_orders,num_emergency,actual_alpha,order_details,zone1_picks,zone2_picks,zone3_picks
+Medical_mu1_beta6_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,3590.0,,1800.00,1657834,0,1191,1323,15,5,0.333333333333,39,17,14,8
+Medical_mu1_beta6_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,3720.0,,1800.00,746447,0,1373,1554,15,5,0.333333333333,49,10,21,18
+Medical_mu1_beta8_alpha03_rack12,OPTIMAL,3480.0,3480.0,0.0,547.40,479021,8,1135,1263,15,5,0.333333333333,35,20,6,9
+Medical_mu1_beta8_alpha03_rack15,OPTIMAL,3400.0,3400.0,0.0,540.84,394442,6,1205,1374,15,5,0.333333333333,37,10,22,5
+Medical_mu2_beta6_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,3720.0,,1800.00,782446,0,1261,1398,15,5,0.333333333333,44,19,18,7
+Medical_mu2_beta6_alpha03_rack15,OPTIMAL,3460.0,3460.0,0.0,1213.48,724095,6,1191,1359,15,5,0.333333333333,36,17,14,5
+Medical_mu2_beta8_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,3710.0,,1800.00,1192763,0,1247,1383,15,5,0.333333333333,43,22,9,12
+Medical_mu2_beta8_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,3870.0,,1800.00,689741,0,1233,1404,15,5,0.333333333333,39,23,15,1

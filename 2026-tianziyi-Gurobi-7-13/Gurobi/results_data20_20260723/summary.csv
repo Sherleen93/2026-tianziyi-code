@@ -1,0 +1,9 @@
+case,status,objective,best_bound,gap_percent,solve_seconds,nodes,solution_count,variables,initial_constraints,order_details,zone1_picks,zone2_picks,zone3_picks
+Medical_mu1_beta6_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,5320.0,,1800.00,608191,0,1632,1693,53,23,20,10
+Medical_mu1_beta6_alpha03_rack15,INFEASIBLE,,,,0.03,1,0,1828,1939,64,15,31,18
+Medical_mu1_beta8_alpha03_rack12,INFEASIBLE,,,,17.90,5420,0,1632,1693,53,25,14,14
+Medical_mu1_beta8_alpha03_rack15,INFEASIBLE,,,,0.03,1,0,1716,1819,56,16,32,8
+Medical_mu2_beta6_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,5200.0,,1800.00,363201,0,1632,1693,53,22,22,9
+Medical_mu2_beta6_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,4890.0,,1800.00,438104,0,1632,1729,50,22,19,9
+Medical_mu2_beta8_alpha03_rack12,INFEASIBLE,,,,2.80,493,0,1604,1663,51,26,13,12
+Medical_mu2_beta8_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,4950.0,,1800.00,421779,0,1590,1684,47,24,19,4

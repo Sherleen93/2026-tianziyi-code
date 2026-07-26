@@ -1,0 +1,9 @@
+case	exit_code	elapsed_seconds
+Medical_mu1_beta6_alpha03_rack12	0	0
+Medical_mu1_beta6_alpha03_rack15	0	3
+Medical_mu1_beta8_alpha03_rack12	0	3
+Medical_mu1_beta8_alpha03_rack15	0	7
+Medical_mu2_beta6_alpha03_rack12	0	1
+Medical_mu2_beta6_alpha03_rack15	0	2
+Medical_mu2_beta8_alpha03_rack12	0	2
+Medical_mu2_beta8_alpha03_rack15	0	1

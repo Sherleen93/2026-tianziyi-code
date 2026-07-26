@@ -1,0 +1,2 @@
+exp_name,seed,num_orders,num_skus,num_racks,alpha_emergency_ratio,beta_rack_capacity,mu_zone_skew,boosted_zone,zone_dist,emergency_weight,normal_weight,rare_ratio_per_zone
+Medical_mu1_beta8_alpha03_rack15,11,30,70,15,0.3,8,1.0,1,"[0.3333333333333333, 0.3333333333333333, 0.3333333333333333]",1.5,1.0,0.25

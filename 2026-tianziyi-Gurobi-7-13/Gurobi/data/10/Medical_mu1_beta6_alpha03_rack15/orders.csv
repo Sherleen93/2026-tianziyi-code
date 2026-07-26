@@ -1,0 +1,11 @@
+order_id,type,priority,weight
+1,Normal,Normal,1.0
+2,Normal,Normal,1.0
+3,Normal,Normal,1.0
+4,Normal,Normal,1.0
+5,Emergency,High,1.5
+6,Emergency,High,1.5
+7,Emergency,High,1.5
+8,Normal,Normal,1.0
+9,Normal,Normal,1.0
+10,Normal,Normal,1.0

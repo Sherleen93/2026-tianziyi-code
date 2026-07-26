@@ -1,0 +1,9 @@
+case,status,objective,best_bound,gap_percent,solve_seconds,wall_seconds,nodes,solution_count,variables,initial_constraints,num_orders,num_emergency,actual_alpha,order_details,zone1_picks,zone2_picks,zone3_picks,log
+Medical_mu1_beta6_alpha03_rack12,INFEASIBLE,,,,15.11,15.452,2305,0,1486,1581,18,5,0.277777777778,50,25,17,8,Medical_mu1_beta6_alpha03_rack12.log
+Medical_mu1_beta6_alpha03_rack15,INFEASIBLE,,,,7.35,7.697,530,0,1612,1752,18,5,0.277777777778,56,14,26,16,Medical_mu1_beta6_alpha03_rack15.log
+Medical_mu1_beta8_alpha03_rack12,INFEASIBLE,,,,17.18,17.535,6157,0,1430,1521,18,5,0.277777777778,46,25,12,9,Medical_mu1_beta8_alpha03_rack12.log
+Medical_mu1_beta8_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,4210.0,,1800.0,1800.666,1077523,0,1542,1677,18,5,0.277777777778,51,18,21,12,Medical_mu1_beta8_alpha03_rack15.log
+Medical_mu2_beta6_alpha03_rack12,TIME_LIMIT_NO_SOLUTION,,4300.0,,1800.0,1800.516,649745,0,1444,1536,18,5,0.277777777778,47,18,22,7,Medical_mu2_beta6_alpha03_rack12.log
+Medical_mu2_beta6_alpha03_rack15,TIME_LIMIT_NO_SOLUTION,,4580.0,,1800.0,1800.461,534336,0,1556,1692,18,5,0.277777777778,52,22,23,7,Medical_mu2_beta6_alpha03_rack15.log
+Medical_mu2_beta8_alpha03_rack12,INFEASIBLE,,,,0.02,0.373,1,0,1542,1641,18,5,0.277777777778,54,31,13,10,Medical_mu2_beta8_alpha03_rack12.log
+Medical_mu2_beta8_alpha03_rack15,INFEASIBLE,,,,0.02,0.376,1,0,1486,1617,18,5,0.277777777778,47,28,15,4,Medical_mu2_beta8_alpha03_rack15.log

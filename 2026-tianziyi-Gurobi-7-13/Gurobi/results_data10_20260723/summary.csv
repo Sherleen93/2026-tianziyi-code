@@ -1,0 +1,9 @@
+case,status,objective,best_bound,gap_percent,solve_seconds,nodes,variables,constraints
+Medical_mu1_beta6_alpha03_rack12,OPTIMAL,1950.0,1950.0,0.0,0.34,2444,716,1664
+Medical_mu1_beta6_alpha03_rack15,OPTIMAL,2190.0,2190.0,0.0,2.44,19717,828,1890
+Medical_mu1_beta8_alpha03_rack12,OPTIMAL,2010.0,2010.0,0.0,2.72,24724,758,1751
+Medical_mu1_beta8_alpha03_rack15,OPTIMAL,1990.0,1990.0,0.0,6.71,57735,828,1890
+Medical_mu2_beta6_alpha03_rack12,OPTIMAL,1870.0,1870.0,0.0,0.69,8994,716,1664
+Medical_mu2_beta6_alpha03_rack15,OPTIMAL,2300.0,2300.0,0.0,1.68,7980,828,1890
+Medical_mu2_beta8_alpha03_rack12,OPTIMAL,2070.0,2070.0,0.0,1.87,10513,758,1751
+Medical_mu2_beta8_alpha03_rack15,OPTIMAL,1960.0,1960.0,0.0,1.08,6037,842,1919

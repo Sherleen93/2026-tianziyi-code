@@ -1,0 +1,2 @@
+instances,runs_per_instance,successful_runs,failed_runs,batch_wall_seconds,sum_vns_runtime_seconds
+8,5,40,0,59.339567708000004,59.23872696000004
